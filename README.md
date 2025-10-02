@@ -10,7 +10,7 @@ Features
 - Tool used - Jupyter Notebook
 
 
-In this project, we created a basic sales analysis pipeline using Python and SQLite. The main steps we completed are:
+In this project, I created a basic sales analysis pipeline using Python and SQLite. The main steps are:
 
 Database Setup
   Created a small SQLite database sales_data.db with a single table sales.
